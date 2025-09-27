@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=450&size=33&duration=3000&pause=300&color=003153&width=435&lines=Welcome+to+my+profile;I'm+Maksym;function+Rocker(42);Software+Engineering+Student;I'm+from+Ukraine%F0%9F%87%BA%F0%9F%87%A6;Ukrainian+DevOps"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=450&size=33&duration=3000&center=true&vCenter=true&pause=300&color=003153&width=435&lines=Welcome+to+my+profile;I'm+Maksym;function+Rocker(42);Software+Engineering+Student;I'm+from+Ukraine%F0%9F%87%BA%F0%9F%87%A6;Ukrainian+DevOps"/>
   <h1></h1>
 </div>
 
@@ -72,5 +72,5 @@
 <hr/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=33&duration=3000&pause=700&color=003153&lines=Thanks+for+your+visit+%5E_%5E"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&center=true&vCenter=true&weight=500&size=33&duration=3000&pause=700&color=003153&lines=Thanks+for+your+visit+%5E_%5E"/>
 </div>
