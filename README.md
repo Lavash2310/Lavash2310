@@ -69,7 +69,18 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavash2310&layout=compact&theme=prussian" alt="GitHub Streak" /></a>
 </div>
 
-<hr/>
+<hr>
+
+<div align="center">
+  <h2>Jokes😜</h2>
+  <details>
+    <summary>See joke</summary>
+    <br />
+    <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
+  </details>
+</div>
+
+<hr>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&center=true&vCenter=true&weight=500&size=33&duration=3000&pause=700&color=003153&lines=Thanks+for+your+visit+%5E_%5E"/>
