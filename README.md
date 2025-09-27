@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Maksym Romanyuk and I'm 18</h1>
 <h3 align="center">A student who wants to be DevOps developer from Ukraine ;)</h3>
-
+<br><br>
 <div align="center">
 
-🔭 I’m currently working on [Copy PayPal](https://github.com/Lavash2310/pay-pal-project.git)  
-🌱 I’m currently learning **AWS, Advanced Bash**  
+🔭 I’m currently working on [Copy PayPal](https://github.com/Lavash2310/pay-pal-project.git)
+<br>
+🌱 I’m currently learning **AWS, Advanced Bash** 
+<br>
 💬 Ask me about **DevOps and Backend**  
+<br>
 📫 How to reach me **maksym23102006@gmail.com**  
+<br>
 ⚡ Fun fact **I like coffee☕ and tea🍵**  
 
 </div>
