@@ -14,7 +14,7 @@
 🔭 I’m currently working on [Copy PayPal](https://github.com/Lavash2310/pay-pal-project.git)  
 <br>
 
-🌱 I’m currently learning **AWS, Advanced Bash**  
+🌱 I’m currently learning **AWS, Terraform**  
 <br>
 
 💬 Ask me about **DevOps and Backend**  
@@ -23,7 +23,7 @@
 📫 How to reach me **maksym23102006@gmail.com**  
 <br>
 
-⚡ Fun fact **I like coffee☕ and tea🍵**
+⚡ Fun fact **I like go to the gym and to do muay-thai...and coffee^_^**
 
 ![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
